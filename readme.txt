@@ -4,5 +4,5 @@ git has a mutable index called stage
 git tracks change
 
 create a new
-creating a new branch is
-test  
+creating a new branch is 
+ 
